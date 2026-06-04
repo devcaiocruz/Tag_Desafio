@@ -1,0 +1,7 @@
+# Dependências do projeto
+# Instale com: pip install -r requirements.txt
+
+pandas>=3.0.0
+openpyxl>=3.1.5
+openai>=1.0.0
+python-dotenv>=1.0.0

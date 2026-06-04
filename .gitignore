@@ -1,0 +1,25 @@
+# ── Variáveis de ambiente (NUNCA versionar — contém chaves de API) ────────────
+.env
+
+# ── Dados e relatórios gerados (não versionados conforme README) ──────────────
+data/
+output/relatorio.json
+output/relatorio.txt
+
+# ── Cache do Python ───────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ── Ambientes virtuais ────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── IDEs e editores ───────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.egg-info/
+.DS_Store

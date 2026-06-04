@@ -1,0 +1,2 @@
+# Este arquivo existe apenas para que o Git rastreie a pasta output/.
+# Os relatórios gerados (.json e .txt) ficam aqui mas não são versionados.
